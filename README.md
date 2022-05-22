@@ -6,7 +6,7 @@
 Artikulate
 ==========
 
-Artikulate is a language learning application that helps improving pronunciation skills for
+Artikulate is a language learning application that helps improve pronunciation skills for
 various languages. This repository maintains the application and language specifications. All course
 files are maintained in a separate repository named "artikulate-data" and hosted on the KDE
 infrastructure.
@@ -21,8 +21,7 @@ Packaging and Building Information
 
 # Build Dependencies
 
-All build dependencies are defined in the CMake files. Please run CMake and and consider the
-the output.
+All build dependencies are defined in the CMake files. Please run CMake and consider the output.
 
 # Packaging
 
